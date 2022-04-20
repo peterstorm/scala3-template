@@ -1,4 +1,4 @@
-val Scala3Version = "3.1.0"
+val Scala3Version = "3.1.2"
 val CatsEffectVersion = "3.3.4"
 val CatsVersion = "2.7.0"
 val CirceVersion = "0.14.1"
